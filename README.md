@@ -1,6 +1,6 @@
 # 07_HomeWork exercises array
 
- [here]( https://gmsandrzej.github.io/07_ExercisesArray/).
+ [Here the solutions in the console]( https://gmsandrzej.github.io/07_ExercisesArray/).
 
 ## Description
-Lista ćwiczeń .
+List of exercises 
